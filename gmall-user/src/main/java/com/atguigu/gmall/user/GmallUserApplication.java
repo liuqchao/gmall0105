@@ -12,5 +12,4 @@ public class GmallUserApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GmallUserApplication.class, args);
 	}
-
 }
