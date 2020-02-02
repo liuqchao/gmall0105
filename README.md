@@ -1,1 +1,3 @@
 # gmall0105本地修改
+gmall-user-service用户服务的service为8070
+gmall-user-web用户服务的service为8080
