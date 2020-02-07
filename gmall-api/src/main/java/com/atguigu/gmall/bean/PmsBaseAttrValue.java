@@ -58,7 +58,6 @@ public class PmsBaseAttrValue implements Serializable {
     public String getUrlParam() {
         return urlParam;
     }
-
     public void setUrlParam(String urlParam) {
         this.urlParam = urlParam;
     }
